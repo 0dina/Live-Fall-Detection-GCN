@@ -2,7 +2,7 @@
 
 A simple skeleton-based Graph Convolutional Network (GCN) system for real-time fall detection.  
 Designed as a baseline/demo for researchers and university students.
-
+by Sejik Park, Seoyoung Choi, Nahyun Park
 ## Features
 
 -   Preprocesses the Le2i “Fall Dataset” into CSV skeleton files
